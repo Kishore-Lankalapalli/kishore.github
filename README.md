@@ -1,2 +1,2 @@
 # kishore.github
-Full tsack Developer
+Full Stack Developer
